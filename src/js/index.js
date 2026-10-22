@@ -27,4 +27,5 @@ btnSearch.addEventListener('click', async () => {
         alert('Ocorreu um erro ao buscar o perfil do usuário. Por favor, tente novamente mais tarde.');
         profileResults.innerHTML = "";
     }
-});
+})
+
